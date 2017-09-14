@@ -1,0 +1,31 @@
+[ {
+  "accountId" : 1,
+  "customerName" : "Alex",
+  "currency" : null,
+  "amount" : 8.32
+}, {
+  "accountId" : 2,
+  "customerName" : "Alex2",
+  "currency" : "USD",
+  "amount" : 8.42
+}, {
+  "accountId" : 4,
+  "customerName" : "Alex2",
+  "currency" : "USD",
+  "amount" : 8.42
+}, {
+  "accountId" : 5,
+  "customerName" : "Alex2",
+  "currency" : "USD",
+  "amount" : 8.42
+}, {
+  "accountId" : 6,
+  "customerName" : "Alex2",
+  "currency" : null,
+  "amount" : 8.42
+}, {
+  "accountId" : 7,
+  "customerName" : "Alex2",
+  "currency" : "Alex2",
+  "amount" : null
+} ]

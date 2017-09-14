@@ -1,0 +1,19 @@
+{
+  "title":"Account",
+  "description":"Account object",
+  "type":"Object",
+  "properties":{
+    "accountId":{
+      "type":"integer"
+    },
+    "customerName":{
+      "type":"string"
+    },
+    "currency":{
+      "type":"string"
+    },
+    "amount":{
+      "type":"BigDecimal"
+    }
+  }
+}
